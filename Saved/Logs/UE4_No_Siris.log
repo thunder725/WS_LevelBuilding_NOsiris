@@ -1010,3 +1010,1714 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.21-08.28.31:873][957]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.03.21-08.28.31:876][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
 [2022.03.21-08.28.31:919][960]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.03.21-08.28.56:944][549]LogEditorViewport: Clicking Background
+[2022.03.21-08.29.58:360][201]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Blueprint/BP_Controller.BP_Controller
+[2022.03.21-08.29.58:801][201]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.03.21-08.30.01:111][379]LogSlate: Window 'BP_Controller' being destroyed
+[2022.03.21-08.30.03:682][672]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Blueprint/BP_Recepteur.BP_Recepteur
+[2022.03.21-08.30.04:124][672]LogSlate: Took 0.000348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.21-08.30.04:208][673]LogSlate: Took 0.003728 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.21-08.30.10:292][369]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Blueprint/BP_Activator.BP_Activator
+[2022.03.21-08.30.10:618][369]LogSlate: Took 0.004954 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.21-08.33.19:711][471]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.21-08.33.19:711][471]LogEditorClassViewer: Warning: Class /Game/Game/Blueprint/BP_Activator.PLACEHOLDER-CLASS__BP_Recepteur_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.21-08.33.19:711][471]LogEditorClassViewer: Warning: Class /Game/Game/Blueprint/BP_Activator.PLACEHOLDER-CLASS__BP_Player_C_1 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.21-08.37.36:603][609]BlueprintLog: New page: Compile BP_Recepteur
+[2022.03.21-08.37.36:645][609]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.03.21-08.40.24:959][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.03.21-08.40.24:967][464]LogSavePackage: Moving 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Saved/LVL_Proto_Auto1AB9FEB644B2BDACAC469FDAB21DF53E8.tmp' to 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Saved/Autosaves/Game/Game/Level/LVL_Proto_Auto1.umap'
+[2022.03.21-08.40.24:968][464]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Game/Level/LVL_Proto' took 0.033
+[2022.03.21-08.40.24:968][464]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2022.03.21-08.40.24:969][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Blueprint/BP_Recepteur] ([2] browsable assets)...
+[2022.03.21-08.40.24:969][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Blueprint/BP_Recepteur]
+[2022.03.21-08.40.24:980][464]LogSavePackage: Moving 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Saved/BP_Recepteur_Auto182612B5A44759C95F9391FB102119A3E.tmp' to 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Saved/Autosaves/Game/Game/Blueprint/BP_Recepteur_Auto1.uasset'
+[2022.03.21-08.40.24:980][464]LogFileHelpers: Auto-saving content packages took 0.012
+[2022.03.21-08.41.40:907][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Level/LVL_Proto" FILE="D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Level/LVL_Proto.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.21-08.41.40:927][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.03.21-08.41.40:932][909]LogSavePackage: Moving 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Saved/LVL_ProtoC5BC0DF949A86F99B039029025C61447.tmp' to 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Level/LVL_Proto.umap'
+[2022.03.21-08.41.40:939][909]LogFileHelpers: Saving map 'LVL_Proto' took 0.033
+[2022.03.21-08.41.40:940][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Blueprint/BP_Recepteur" FILE="D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Blueprint/BP_Recepteur.uasset" SILENT=true
+[2022.03.21-08.41.40:950][909]LogSavePackage: Moving 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Saved/BP_RecepteurE599203049202AC44DDD8E9B9F4E7AE3.tmp' to 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Blueprint/BP_Recepteur.uasset'
+[2022.03.21-08.41.40:961][909]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.21-08.41.40:961][909]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprint/BP_Recepteur.BP_Recepteur
+[2022.03.21-08.41.40:961][909]LogContentValidation: Display: Validating World /Game/Game/Level/LVL_Proto.LVL_Proto
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Content: 'C:/Unreal/UE_4.27/Engine/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:701][307]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.41.44:942][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Blueprint/BP_Recepteur" FILE="D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Blueprint/BP_Recepteur.uasset" SILENT=true
+[2022.03.21-08.41.44:952][307]LogSavePackage: Moving 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Saved/BP_Recepteur90AD573B48413E81AC0637B42DBAFB27.tmp' to 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Blueprint/BP_Recepteur.uasset'
+[2022.03.21-08.41.44:953][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Level/LVL_Proto" FILE="D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Level/LVL_Proto.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.21-08.41.44:974][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.03.21-08.41.44:979][307]LogSavePackage: Moving 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Saved/LVL_Proto864ACDE74E39839857548ABB3AFAF681.tmp' to 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Level/LVL_Proto.umap'
+[2022.03.21-08.41.44:985][307]LogFileHelpers: Saving map 'LVL_Proto' took 0.032
+[2022.03.21-08.42.09:812][307]LogSlate: Window 'Submit Files' being destroyed
+[2022.03.21-08.42.10:368][307]LogSourceControl: commit successful: [main 361e15c] BlueprintAdvanced
+[2022.03.21-08.42.10:434][307]SourceControl: [main 361e15c] BlueprintAdvanced
+[2022.03.21-08.42.10:434][307]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2022.03.21-08.42.10:434][307]SourceControl:  rewrite Content/Game/Blueprint/BP_Recepteur.uasset (92%)
+[2022.03.21-08.42.10:439][307]SourceControl: Commited [main 361e15c] BlueprintAdvanced.
+[2022.03.21-08.42.10:481][308]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.21-08.42.10:481][308]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprint/BP_Recepteur.BP_Recepteur
+[2022.03.21-08.42.10:481][308]LogContentValidation: Display: Validating World /Game/Game/Level/LVL_Proto.LVL_Proto
+[2022.03.21-08.42.47:015][154]LogEditorViewport: Clicking Background
+[2022.03.21-08.46.46:891][538]BlueprintLog: New page: Compile BP_Recepteur
+[2022.03.21-08.46.46:930][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.03.21-08.46.57:650][785]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.46.57:658][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-08.46.57:658][785]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:46:57)
+[2022.03.21-08.46.57:658][785]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.46.57:659][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001421s)
+[2022.03.21-08.46.57:660][785]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.46.57:660][785]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2022.03.21-08.46.57:660][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002427s)
+[2022.03.21-08.46.57:682][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.03.21-08.46.57:683][785]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.21-08.46.57:683][785]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.46.57:683][785]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.46.57:683][785]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.46.57:683][785]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.46.57:683][785]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.46.57:683][785]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.46.57:683][785]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.46.57:683][785]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.46.57:683][785]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.46.57:683][785]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.46.57:683][785]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.46.57:683][785]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.46.57:686][785]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.46.57:686][785]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.46.57:694][785]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.46.57:695][785]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.46.57:695][785]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.46.57:695][785]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.46.57:695][785]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.46.57:695][785]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.46.57:695][785]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.46.57:696][785]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.46.57:696][785]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.46.57:696][785]LogInit: FAudioDevice initialized.
+[2022.03.21-08.46.57:696][785]LogAudio: Display: Audio Device (ID: 3) registered with world 'LVL_Proto'.
+[2022.03.21-08.46.57:746][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.46.57:746][785]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.46.57:748][785]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.46.57
+[2022.03.21-08.46.57:748][785]LogWorld: Bringing up level for play took: 0.001371
+[2022.03.21-08.46.57:748][785]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.03.21-08.46.57:757][785]LogBlueprintUserMessages: [BP_Recepteur_2] 0
+[2022.03.21-08.46.57:757][785]LogBlueprintUserMessages: [BP_Recepteur_2] 1
+[2022.03.21-08.46.57:757][785]LogBlueprintUserMessages: [BP_Recepteur_2] 2
+[2022.03.21-08.46.57:758][785]LogBlueprintUserMessages: [BP_Recepteur_2] 3
+[2022.03.21-08.46.57:759][785]PIE: Server logged in
+[2022.03.21-08.46.57:760][785]PIE: Play in editor total start time 0,107 seconds.
+[2022.03.21-08.47.00:312][ 85]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.47.00:316][ 85]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.47.00:343][ 85]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.47.00:343][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.47.00:362][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.47.00:378][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.47.00:402][ 85]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-08.47.00:403][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.47.00:404][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.47.00:407][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.03.21-08.47.00:431][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.03.21-08.47.12:630][510]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.47.12:634][510]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.21-08.47.12:636][510]LogPlayLevel: [PlayLevel] Compiling BP_Recepteur before play...
+[2022.03.21-08.47.12:688][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.03.21-08.47.12:689][510]LogPlayLevel: PlayLevel: Blueprint regeneration took 54 ms (1 blueprints)
+[2022.03.21-08.47.12:689][510]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:47:12)
+[2022.03.21-08.47.12:689][510]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.47.12:690][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001326s)
+[2022.03.21-08.47.12:691][510]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.47.12:691][510]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2022.03.21-08.47.12:691][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002226s)
+[2022.03.21-08.47.12:711][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.03.21-08.47.12:713][510]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.21-08.47.12:713][510]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.47.12:713][510]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.47.12:713][510]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.47.12:713][510]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.47.12:713][510]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.47.12:713][510]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.47.12:713][510]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.47.12:713][510]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.47.12:713][510]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.47.12:713][510]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.47.12:713][510]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.47.12:713][510]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.47.12:716][510]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.47.12:716][510]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.47.12:723][510]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.47.12:723][510]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.47.12:723][510]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.47.12:723][510]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.47.12:723][510]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.47.12:723][510]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.47.12:723][510]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.47.12:724][510]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.47.12:724][510]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.47.12:724][510]LogInit: FAudioDevice initialized.
+[2022.03.21-08.47.12:724][510]LogAudio: Display: Audio Device (ID: 4) registered with world 'LVL_Proto'.
+[2022.03.21-08.47.12:783][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.47.12:783][510]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.47.12:785][510]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.47.12
+[2022.03.21-08.47.12:785][510]LogWorld: Bringing up level for play took: 0.001124
+[2022.03.21-08.47.12:785][510]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.03.21-08.47.12:787][510]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-08.47.12:787][510]LogBlueprintUserMessages: [BP_Recepteur_2] 0
+[2022.03.21-08.47.12:787][510]LogBlueprintUserMessages: [BP_Recepteur_2] 1
+[2022.03.21-08.47.12:787][510]LogBlueprintUserMessages: [BP_Recepteur_2] 2
+[2022.03.21-08.47.12:788][510]PIE: Server logged in
+[2022.03.21-08.47.12:788][510]PIE: Play in editor total start time 0,155 seconds.
+[2022.03.21-08.47.14:693][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.47.14:693][730]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.47.14:694][730]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.47.14:702][730]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.47.14:702][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.47.14:714][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.47.14:721][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.47.14:740][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.47.14:740][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.47.14:744][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.03.21-08.47.14:766][731]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.03.21-08.47.21:021][441]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.47.21:025][441]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.21-08.47.21:025][441]LogPlayLevel: [PlayLevel] Compiling BP_Recepteur before play...
+[2022.03.21-08.47.21:077][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.03.21-08.47.21:077][441]LogPlayLevel: PlayLevel: Blueprint regeneration took 51 ms (1 blueprints)
+[2022.03.21-08.47.21:077][441]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:47:21)
+[2022.03.21-08.47.21:077][441]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.47.21:079][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001281s)
+[2022.03.21-08.47.21:079][441]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.47.21:079][441]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2022.03.21-08.47.21:079][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002131s)
+[2022.03.21-08.47.21:100][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.03.21-08.47.21:100][441]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.21-08.47.21:101][441]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.47.21:101][441]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.47.21:101][441]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.47.21:101][441]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.47.21:101][441]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.47.21:101][441]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.47.21:101][441]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.47.21:101][441]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.47.21:101][441]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.47.21:101][441]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.47.21:101][441]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.47.21:101][441]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.47.21:104][441]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.47.21:104][441]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.47.21:110][441]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.47.21:110][441]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.47.21:110][441]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.47.21:110][441]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.47.21:110][441]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.47.21:110][441]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.47.21:110][441]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.47.21:111][441]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.47.21:111][441]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.47.21:111][441]LogInit: FAudioDevice initialized.
+[2022.03.21-08.47.21:111][441]LogAudio: Display: Audio Device (ID: 5) registered with world 'LVL_Proto'.
+[2022.03.21-08.47.21:148][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.47.21:148][441]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.47.21:150][441]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.47.21
+[2022.03.21-08.47.21:150][441]LogWorld: Bringing up level for play took: 0.001077
+[2022.03.21-08.47.21:150][441]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.03.21-08.47.21:152][441]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-08.47.21:152][441]LogBlueprintUserMessages: [BP_Recepteur_2] 0
+[2022.03.21-08.47.21:152][441]LogBlueprintUserMessages: [BP_Recepteur_2] 1
+[2022.03.21-08.47.21:152][441]LogBlueprintUserMessages: [BP_Recepteur_2] 2
+[2022.03.21-08.47.21:152][441]LogBlueprintUserMessages: [BP_Recepteur_2] 3
+[2022.03.21-08.47.21:152][441]LogBlueprintUserMessages: [BP_Recepteur_2] 4
+[2022.03.21-08.47.21:153][441]PIE: Server logged in
+[2022.03.21-08.47.21:153][441]PIE: Play in editor total start time 0,129 seconds.
+[2022.03.21-08.47.22:482][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.47.22:483][593]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.47.22:484][593]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.47.22:492][593]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.47.22:492][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.47.22:502][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.47.22:509][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.47.22:528][593]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.47.22:529][593]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.47.22:533][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.03.21-08.47.22:556][594]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.03.21-08.47.23:635][715]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::Subtract_IntInt' [Le module spécifié est introuvable.]
+[2022.03.21-08.47.33:291][801]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.47.33:295][801]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.21-08.47.33:296][801]LogPlayLevel: [PlayLevel] Compiling BP_Recepteur before play...
+[2022.03.21-08.47.33:346][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.03.21-08.47.33:347][801]LogPlayLevel: PlayLevel: Blueprint regeneration took 53 ms (1 blueprints)
+[2022.03.21-08.47.33:347][801]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:47:33)
+[2022.03.21-08.47.33:347][801]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.47.33:349][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001352s)
+[2022.03.21-08.47.33:349][801]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.47.33:349][801]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2022.03.21-08.47.33:349][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002260s)
+[2022.03.21-08.47.33:370][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.03.21-08.47.33:370][801]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.21-08.47.33:370][801]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.47.33:370][801]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.47.33:370][801]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.47.33:370][801]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.47.33:370][801]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.47.33:370][801]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.47.33:370][801]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.47.33:370][801]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.47.33:370][801]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.47.33:370][801]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.47.33:370][801]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.47.33:370][801]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.47.33:373][801]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.47.33:373][801]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.47.33:380][801]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.47.33:380][801]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.47.33:380][801]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.47.33:380][801]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.47.33:380][801]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.47.33:380][801]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.47.33:380][801]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.47.33:381][801]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.47.33:381][801]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.47.33:381][801]LogInit: FAudioDevice initialized.
+[2022.03.21-08.47.33:381][801]LogAudio: Display: Audio Device (ID: 6) registered with world 'LVL_Proto'.
+[2022.03.21-08.47.33:436][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.47.33:437][801]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.47.33:444][801]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.47.33
+[2022.03.21-08.47.33:444][801]LogWorld: Bringing up level for play took: 0.004322
+[2022.03.21-08.47.33:445][801]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.03.21-08.47.33:448][801]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-08.47.33:449][801]LogBlueprintUserMessages: [BP_Recepteur_2] 0
+[2022.03.21-08.47.33:449][801]LogBlueprintUserMessages: [BP_Recepteur_2] 1
+[2022.03.21-08.47.33:449][801]LogBlueprintUserMessages: [BP_Recepteur_2] 2
+[2022.03.21-08.47.33:450][801]PIE: Server logged in
+[2022.03.21-08.47.33:451][801]PIE: Play in editor total start time 0,157 seconds.
+[2022.03.21-08.47.35:991][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.47.35:991][ 96]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.47.35:991][ 96]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.47.36:002][ 96]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.47.36:003][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.47.36:015][ 96]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.47.36:022][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.47.36:041][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.47.36:042][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.47.36:046][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.03.21-08.47.36:068][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.03.21-08.47.45:693][220]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.47.45:697][220]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.21-08.47.45:698][220]LogPlayLevel: [PlayLevel] Compiling BP_Recepteur before play...
+[2022.03.21-08.47.45:748][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.03.21-08.47.45:749][220]LogPlayLevel: PlayLevel: Blueprint regeneration took 51 ms (1 blueprints)
+[2022.03.21-08.47.45:749][220]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:47:45)
+[2022.03.21-08.47.45:749][220]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.47.45:750][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001399s)
+[2022.03.21-08.47.45:751][220]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.47.45:751][220]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2022.03.21-08.47.45:751][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002311s)
+[2022.03.21-08.47.45:771][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.03.21-08.47.45:771][220]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.03.21-08.47.45:771][220]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.47.45:771][220]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.47.45:771][220]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.47.45:771][220]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.47.45:771][220]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.47.45:771][220]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.47.45:771][220]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.47.45:771][220]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.47.45:772][220]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.47.45:772][220]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.47.45:772][220]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.47.45:772][220]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.47.45:774][220]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.47.45:774][220]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.47.45:782][220]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.47.45:782][220]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.47.45:782][220]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.47.45:782][220]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.47.45:782][220]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.47.45:782][220]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.47.45:782][220]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.47.45:783][220]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.47.45:783][220]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.47.45:783][220]LogInit: FAudioDevice initialized.
+[2022.03.21-08.47.45:783][220]LogAudio: Display: Audio Device (ID: 7) registered with world 'LVL_Proto'.
+[2022.03.21-08.47.45:847][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.47.45:848][220]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.47.45:854][220]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.47.45
+[2022.03.21-08.47.45:854][220]LogWorld: Bringing up level for play took: 0.004407
+[2022.03.21-08.47.45:855][220]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.03.21-08.47.45:858][220]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-08.47.45:859][220]LogBlueprintUserMessages: [BP_Recepteur_2] 0
+[2022.03.21-08.47.45:859][220]LogBlueprintUserMessages: [BP_Recepteur_2] 1
+[2022.03.21-08.47.45:859][220]LogBlueprintUserMessages: [BP_Recepteur_2] 2
+[2022.03.21-08.47.45:859][220]LogBlueprintUserMessages: [BP_Recepteur_2] 3
+[2022.03.21-08.47.45:860][220]PIE: Server logged in
+[2022.03.21-08.47.45:861][220]PIE: Play in editor total start time 0,165 seconds.
+[2022.03.21-08.47.47:449][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.47.47:450][402]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.47.47:451][402]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.47.47:460][402]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.47.47:460][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.47.47:469][402]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.47.47:476][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.47.47:495][402]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.47.47:496][402]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.47.47:499][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.03.21-08.47.47:522][403]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.03.21-08.47.55:677][354]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.47.55:681][354]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.21-08.47.55:682][354]LogPlayLevel: [PlayLevel] Compiling BP_Recepteur before play...
+[2022.03.21-08.47.55:733][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.03.21-08.47.55:734][354]LogPlayLevel: PlayLevel: Blueprint regeneration took 52 ms (1 blueprints)
+[2022.03.21-08.47.55:734][354]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:47:55)
+[2022.03.21-08.47.55:734][354]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.47.55:735][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001313s)
+[2022.03.21-08.47.55:736][354]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.47.55:736][354]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2022.03.21-08.47.55:736][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002195s)
+[2022.03.21-08.47.55:755][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.03.21-08.47.55:756][354]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.03.21-08.47.55:756][354]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.47.55:756][354]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.47.55:756][354]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.47.55:756][354]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.47.55:756][354]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.47.55:756][354]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.47.55:756][354]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.47.55:756][354]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.47.55:756][354]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.47.55:756][354]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.47.55:756][354]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.47.55:756][354]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.47.55:759][354]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.47.55:759][354]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.47.55:766][354]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.47.55:766][354]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.47.55:766][354]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.47.55:766][354]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.47.55:766][354]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.47.55:766][354]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.47.55:766][354]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.47.55:767][354]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.47.55:767][354]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.47.55:767][354]LogInit: FAudioDevice initialized.
+[2022.03.21-08.47.55:767][354]LogAudio: Display: Audio Device (ID: 8) registered with world 'LVL_Proto'.
+[2022.03.21-08.47.55:813][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.47.55:813][354]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.47.55:815][354]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.47.55
+[2022.03.21-08.47.55:815][354]LogWorld: Bringing up level for play took: 0.001097
+[2022.03.21-08.47.55:815][354]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.03.21-08.47.55:816][354]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-08.47.55:817][354]LogBlueprintUserMessages: [BP_Recepteur_2] 0
+[2022.03.21-08.47.55:817][354]LogBlueprintUserMessages: [BP_Recepteur_2] 1
+[2022.03.21-08.47.55:817][354]PIE: Server logged in
+[2022.03.21-08.47.55:818][354]PIE: Play in editor total start time 0,137 seconds.
+[2022.03.21-08.47.57:399][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.47.57:399][534]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.47.57:399][534]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.47.57:407][534]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.47.57:408][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.47.57:418][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.47.57:425][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.47.57:444][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.47.57:445][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.47.57:449][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.03.21-08.47.57:471][535]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.03.21-08.48.08:338][784]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.48.08:342][784]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.21-08.48.08:343][784]LogPlayLevel: [PlayLevel] Compiling BP_Recepteur before play...
+[2022.03.21-08.48.08:394][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.03.21-08.48.08:395][784]LogPlayLevel: PlayLevel: Blueprint regeneration took 52 ms (1 blueprints)
+[2022.03.21-08.48.08:395][784]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:48:08)
+[2022.03.21-08.48.08:395][784]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.48.08:396][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001359s)
+[2022.03.21-08.48.08:397][784]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.48.08:397][784]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2022.03.21-08.48.08:397][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002254s)
+[2022.03.21-08.48.08:418][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.03.21-08.48.08:418][784]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.03.21-08.48.08:418][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.48.08:418][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.48.08:418][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.48.08:418][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.48.08:418][784]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.48.08:418][784]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.48.08:418][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.48.08:418][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.48.08:418][784]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.48.08:418][784]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.48.08:418][784]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.48.08:418][784]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.48.08:421][784]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.48.08:421][784]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.48.08:428][784]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.48.08:428][784]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.48.08:428][784]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.48.08:428][784]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.48.08:429][784]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.48.08:429][784]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.48.08:429][784]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.48.08:430][784]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.48.08:430][784]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.48.08:430][784]LogInit: FAudioDevice initialized.
+[2022.03.21-08.48.08:430][784]LogAudio: Display: Audio Device (ID: 9) registered with world 'LVL_Proto'.
+[2022.03.21-08.48.08:474][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.48.08:474][784]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.48.08:476][784]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.48.08
+[2022.03.21-08.48.08:476][784]LogWorld: Bringing up level for play took: 0.001065
+[2022.03.21-08.48.08:476][784]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.03.21-08.48.08:477][784]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-08.48.08:478][784]LogBlueprintUserMessages: [BP_Recepteur_2] 0
+[2022.03.21-08.48.08:478][784]LogBlueprintUserMessages: [BP_Recepteur_2] 1
+[2022.03.21-08.48.08:478][784]LogBlueprintUserMessages: [BP_Recepteur_2] 2
+[2022.03.21-08.48.08:478][784]LogBlueprintUserMessages: [BP_Recepteur_2] 3
+[2022.03.21-08.48.08:478][784]PIE: Server logged in
+[2022.03.21-08.48.08:479][784]PIE: Play in editor total start time 0,137 seconds.
+[2022.03.21-08.48.09:797][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.48.09:797][932]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.48.09:797][932]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.48.09:804][932]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.48.09:804][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.48.09:825][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.48.09:838][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.48.09:861][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.48.09:862][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.48.09:865][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.03.21-08.48.09:887][933]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.03.21-08.48.24:939][691]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2022.03.21-08.50.21:641][636]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.50.21:645][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-08.50.21:645][636]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:50:21)
+[2022.03.21-08.50.21:645][636]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.50.21:647][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001421s)
+[2022.03.21-08.50.21:647][636]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.50.21:647][636]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2022.03.21-08.50.21:648][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002402s)
+[2022.03.21-08.50.21:673][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.03.21-08.50.21:674][636]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.03.21-08.50.21:674][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.50.21:674][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.50.21:674][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.50.21:674][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.50.21:674][636]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.50.21:674][636]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.50.21:674][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.50.21:674][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.50.21:674][636]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.50.21:674][636]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.50.21:674][636]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.50.21:674][636]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.50.21:677][636]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.50.21:677][636]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.50.21:684][636]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.50.21:685][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.50.21:685][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.50.21:685][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.50.21:685][636]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.50.21:685][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.50.21:685][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.50.21:686][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.50.21:686][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.50.21:686][636]LogInit: FAudioDevice initialized.
+[2022.03.21-08.50.21:686][636]LogAudio: Display: Audio Device (ID: 10) registered with world 'LVL_Proto'.
+[2022.03.21-08.50.21:711][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.50.21:711][636]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.50.21:713][636]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.50.21
+[2022.03.21-08.50.21:713][636]LogWorld: Bringing up level for play took: 0.001040
+[2022.03.21-08.50.21:713][636]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.03.21-08.50.21:714][636]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-08.50.21:715][636]LogBlueprintUserMessages: [BP_Recepteur_2] 0
+[2022.03.21-08.50.21:715][636]LogBlueprintUserMessages: [BP_Recepteur_2] 1
+[2022.03.21-08.50.21:715][636]LogBlueprintUserMessages: [BP_Recepteur_2] 2
+[2022.03.21-08.50.21:715][636]LogBlueprintUserMessages: [BP_Recepteur_2] 3
+[2022.03.21-08.50.21:716][636]PIE: Server logged in
+[2022.03.21-08.50.21:717][636]PIE: Play in editor total start time 0,072 seconds.
+[2022.03.21-08.50.24:074][909]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.50.24:080][909]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.50.24:119][909]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.50.24:119][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.50.24:132][909]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.50.24:139][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.50.24:160][909]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-08.50.24:160][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.50.24:161][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.50.24:164][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.03.21-08.50.24:187][910]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.03.21-08.50.35:854][250]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.50.35:858][250]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.21-08.50.35:859][250]LogPlayLevel: [PlayLevel] Compiling BP_Recepteur before play...
+[2022.03.21-08.50.35:912][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.03.21-08.50.35:913][250]LogPlayLevel: PlayLevel: Blueprint regeneration took 54 ms (1 blueprints)
+[2022.03.21-08.50.35:913][250]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:50:35)
+[2022.03.21-08.50.35:913][250]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.50.35:914][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001270s)
+[2022.03.21-08.50.35:915][250]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.50.35:915][250]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2022.03.21-08.50.35:915][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002155s)
+[2022.03.21-08.50.35:937][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.03.21-08.50.35:937][250]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.03.21-08.50.35:937][250]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.50.35:937][250]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.50.35:937][250]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.50.35:938][250]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.50.35:938][250]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.50.35:938][250]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.50.35:938][250]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.50.35:938][250]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.50.35:938][250]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.50.35:938][250]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.50.35:938][250]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.50.35:938][250]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.50.35:941][250]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.50.35:941][250]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.50.35:961][250]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.50.35:961][250]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.50.35:961][250]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.50.35:961][250]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.50.35:961][250]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.50.35:961][250]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.50.35:961][250]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.50.35:962][250]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.50.35:962][250]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.50.35:962][250]LogInit: FAudioDevice initialized.
+[2022.03.21-08.50.35:962][250]LogAudio: Display: Audio Device (ID: 11) registered with world 'LVL_Proto'.
+[2022.03.21-08.50.35:990][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.50.35:990][250]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.50.35:992][250]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.50.35
+[2022.03.21-08.50.35:992][250]LogWorld: Bringing up level for play took: 0.001035
+[2022.03.21-08.50.35:992][250]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.03.21-08.50.35:993][250]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-08.50.35:994][250]LogBlueprintUserMessages: [BP_Recepteur_2] 0
+[2022.03.21-08.50.35:994][250]LogBlueprintUserMessages: [BP_Recepteur_2] 1
+[2022.03.21-08.50.35:994][250]LogBlueprintUserMessages: [BP_Recepteur_2] 2
+[2022.03.21-08.50.35:994][250]PIE: Server logged in
+[2022.03.21-08.50.35:995][250]PIE: Play in editor total start time 0,138 seconds.
+[2022.03.21-08.50.37:760][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.50.37:760][453]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.50.37:761][453]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.50.37:771][453]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.50.37:771][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.50.37:784][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.50.37:791][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.50.37:812][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.50.37:813][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.50.37:817][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.03.21-08.50.37:839][454]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.03.21-08.50.47:773][609]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.50.47:777][609]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.21-08.50.47:778][609]LogPlayLevel: [PlayLevel] Compiling BP_Recepteur before play...
+[2022.03.21-08.50.47:834][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.03.21-08.50.47:834][609]LogPlayLevel: PlayLevel: Blueprint regeneration took 56 ms (1 blueprints)
+[2022.03.21-08.50.47:834][609]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:50:47)
+[2022.03.21-08.50.47:834][609]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.50.47:836][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001330s)
+[2022.03.21-08.50.47:836][609]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.50.47:837][609]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2022.03.21-08.50.47:837][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002221s)
+[2022.03.21-08.50.47:860][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.03.21-08.50.47:860][609]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.03.21-08.50.47:860][609]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.50.47:860][609]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.50.47:860][609]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.50.47:860][609]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.50.47:860][609]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.50.47:860][609]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.50.47:860][609]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.50.47:860][609]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.50.47:860][609]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.50.47:860][609]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.50.47:860][609]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.50.47:860][609]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.50.47:863][609]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.50.47:863][609]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.50.47:871][609]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.50.47:871][609]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.50.47:871][609]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.50.47:871][609]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.50.47:871][609]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.50.47:871][609]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.50.47:871][609]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.50.47:872][609]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.50.47:872][609]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.50.47:872][609]LogInit: FAudioDevice initialized.
+[2022.03.21-08.50.47:872][609]LogAudio: Display: Audio Device (ID: 12) registered with world 'LVL_Proto'.
+[2022.03.21-08.50.47:917][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.50.47:917][609]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.50.47:919][609]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.50.47
+[2022.03.21-08.50.47:919][609]LogWorld: Bringing up level for play took: 0.001108
+[2022.03.21-08.50.47:919][609]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.03.21-08.50.47:920][609]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-08.50.47:929][609]LogBlueprintUserMessages: [BP_Recepteur_2] true
+[2022.03.21-08.50.47:929][609]LogBlueprintUserMessages: [BP_Recepteur_2] true
+[2022.03.21-08.50.47:929][609]LogBlueprintUserMessages: [BP_Recepteur_2] true
+[2022.03.21-08.50.47:930][609]PIE: Server logged in
+[2022.03.21-08.50.47:930][609]PIE: Play in editor total start time 0,153 seconds.
+[2022.03.21-08.50.49:256][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.50.49:256][759]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.50.49:256][759]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.50.49:263][759]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.50.49:263][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.50.49:273][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.50.49:280][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.50.49:300][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.50.49:301][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.50.49:305][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.03.21-08.50.49:329][760]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.03.21-08.51.14:962][732]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.51.14:966][732]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.21-08.51.14:967][732]LogPlayLevel: [PlayLevel] Compiling BP_Recepteur before play...
+[2022.03.21-08.51.15:020][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.03.21-08.51.15:020][732]LogPlayLevel: PlayLevel: Blueprint regeneration took 54 ms (1 blueprints)
+[2022.03.21-08.51.15:020][732]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:51:15)
+[2022.03.21-08.51.15:020][732]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.51.15:022][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001297s)
+[2022.03.21-08.51.15:022][732]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.51.15:023][732]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2022.03.21-08.51.15:023][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002202s)
+[2022.03.21-08.51.15:045][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.03.21-08.51.15:045][732]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.03.21-08.51.15:045][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.51.15:045][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.51.15:045][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.51.15:045][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.51.15:045][732]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.51.15:045][732]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.51.15:045][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.51.15:045][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.51.15:046][732]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.51.15:046][732]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.51.15:046][732]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.51.15:046][732]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.51.15:049][732]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.51.15:049][732]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.51.15:056][732]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.51.15:056][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.51.15:056][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.51.15:056][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.51.15:056][732]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.51.15:056][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.51.15:056][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.51.15:057][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.51.15:057][732]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.51.15:057][732]LogInit: FAudioDevice initialized.
+[2022.03.21-08.51.15:057][732]LogAudio: Display: Audio Device (ID: 13) registered with world 'LVL_Proto'.
+[2022.03.21-08.51.15:117][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.51.15:118][732]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.51.15:120][732]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.51.15
+[2022.03.21-08.51.15:120][732]LogWorld: Bringing up level for play took: 0.001076
+[2022.03.21-08.51.15:120][732]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.03.21-08.51.15:122][732]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-08.51.15:122][732]LogBlueprintUserMessages: [BP_Recepteur_2] 0
+[2022.03.21-08.51.15:122][732]LogBlueprintUserMessages: [BP_Recepteur_2] 1
+[2022.03.21-08.51.15:122][732]LogBlueprintUserMessages: [BP_Recepteur_2] 2
+[2022.03.21-08.51.15:122][732]LogBlueprintUserMessages: [BP_Recepteur_2] 3
+[2022.03.21-08.51.15:123][732]PIE: Server logged in
+[2022.03.21-08.51.15:123][732]PIE: Play in editor total start time 0,158 seconds.
+[2022.03.21-08.51.16:853][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.51.16:853][933]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.51.16:854][933]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.51.16:859][933]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.51.16:859][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.51.16:868][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.51.16:876][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.51.16:897][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.51.16:898][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.51.16:901][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.03.21-08.51.16:931][935]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.03.21-08.51.21:177][405]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.51.21:181][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-08.51.21:181][405]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:51:21)
+[2022.03.21-08.51.21:181][405]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.51.21:182][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001333s)
+[2022.03.21-08.51.21:183][405]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.51.21:183][405]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2022.03.21-08.51.21:183][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002287s)
+[2022.03.21-08.51.21:206][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.03.21-08.51.21:207][405]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.03.21-08.51.21:207][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.51.21:207][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.51.21:207][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.51.21:207][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.51.21:207][405]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.51.21:207][405]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.51.21:207][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.51.21:207][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.51.21:207][405]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.51.21:207][405]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.51.21:207][405]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.51.21:207][405]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.51.21:210][405]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.51.21:210][405]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.51.21:217][405]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.51.21:217][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.51.21:217][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.51.21:217][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.51.21:217][405]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.51.21:217][405]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.51.21:217][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.51.21:218][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.51.21:218][405]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.51.21:218][405]LogInit: FAudioDevice initialized.
+[2022.03.21-08.51.21:218][405]LogAudio: Display: Audio Device (ID: 14) registered with world 'LVL_Proto'.
+[2022.03.21-08.51.21:272][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.51.21:273][405]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.51.21:278][405]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.51.21
+[2022.03.21-08.51.21:279][405]LogWorld: Bringing up level for play took: 0.003443
+[2022.03.21-08.51.21:279][405]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.03.21-08.51.21:282][405]LogBlueprintUserMessages: [BP_Recepteur_2] 0
+[2022.03.21-08.51.21:282][405]LogBlueprintUserMessages: [BP_Recepteur_2] 1
+[2022.03.21-08.51.21:282][405]LogBlueprintUserMessages: [BP_Recepteur_2] 2
+[2022.03.21-08.51.21:282][405]LogBlueprintUserMessages: [BP_Recepteur_2] 3
+[2022.03.21-08.51.21:285][405]PIE: Server logged in
+[2022.03.21-08.51.21:287][405]PIE: Play in editor total start time 0,106 seconds.
+[2022.03.21-08.51.47:494][488]LogEditorViewport: Clicking on Actor (LMB): BP_Recepteur_C (BP_Recepteur)
+[2022.03.21-08.51.55:599][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.51.55:599][317]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.51.55:599][317]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.51.55:602][317]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.51.55:602][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.51.55:616][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.51.55:619][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.51.55:641][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.51.55:642][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.51.55:646][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.03.21-08.51.55:675][319]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.03.21-08.51.57:634][537]LogEditorViewport: Clicking on Actor (LMB): BP_Recepteur_C (BP_Recepteur)
+[2022.03.21-08.51.59:143][708]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.51.59:148][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-08.51.59:149][708]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:51:59)
+[2022.03.21-08.51.59:149][708]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.51.59:151][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002179s)
+[2022.03.21-08.51.59:152][708]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.51.59:152][708]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2022.03.21-08.51.59:152][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.003248s)
+[2022.03.21-08.51.59:174][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.03.21-08.51.59:175][708]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.03.21-08.51.59:175][708]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.51.59:175][708]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.51.59:175][708]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.51.59:175][708]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.51.59:175][708]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.51.59:175][708]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.51.59:175][708]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.51.59:175][708]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.51.59:175][708]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.51.59:175][708]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.51.59:175][708]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.51.59:175][708]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.51.59:178][708]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.51.59:178][708]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.51.59:185][708]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.51.59:185][708]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.51.59:185][708]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.51.59:185][708]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.51.59:185][708]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.51.59:185][708]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.51.59:185][708]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.51.59:186][708]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.51.59:186][708]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.51.59:186][708]LogInit: FAudioDevice initialized.
+[2022.03.21-08.51.59:186][708]LogAudio: Display: Audio Device (ID: 15) registered with world 'LVL_Proto'.
+[2022.03.21-08.51.59:231][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.51.59:232][708]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.51.59:233][708]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.51.59
+[2022.03.21-08.51.59:233][708]LogWorld: Bringing up level for play took: 0.001140
+[2022.03.21-08.51.59:234][708]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.03.21-08.51.59:235][708]LogBlueprintUserMessages: [BP_Recepteur_2] 0
+[2022.03.21-08.51.59:235][708]LogBlueprintUserMessages: [BP_Recepteur_2] 1
+[2022.03.21-08.51.59:235][708]LogBlueprintUserMessages: [BP_Recepteur_2] 2
+[2022.03.21-08.51.59:235][708]LogBlueprintUserMessages: [BP_Recepteur_2] 3
+[2022.03.21-08.51.59:237][708]PIE: Server logged in
+[2022.03.21-08.51.59:238][708]PIE: Play in editor total start time 0,09 seconds.
+[2022.03.21-08.52.02:887][138]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.52.02:892][138]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.52.02:918][138]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.52.02:918][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.52.02:931][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.52.02:939][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.52.02:962][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.52.02:963][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.52.02:967][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.03.21-08.52.02:988][139]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.03.21-08.52.21:975][274]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.52.21:979][274]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.21-08.52.21:981][274]LogPlayLevel: [PlayLevel] Compiling BP_Recepteur before play...
+[2022.03.21-08.52.22:035][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.03.21-08.52.22:035][274]LogPlayLevel: PlayLevel: Blueprint regeneration took 56 ms (1 blueprints)
+[2022.03.21-08.52.22:035][274]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:52:22)
+[2022.03.21-08.52.22:035][274]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.52.22:037][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001342s)
+[2022.03.21-08.52.22:037][274]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.52.22:037][274]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2022.03.21-08.52.22:038][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002239s)
+[2022.03.21-08.52.22:061][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.03.21-08.52.22:061][274]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.03.21-08.52.22:061][274]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.52.22:061][274]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.52.22:061][274]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.52.22:061][274]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.52.22:061][274]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.52.22:061][274]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.52.22:061][274]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.52.22:061][274]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.52.22:061][274]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.52.22:061][274]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.52.22:061][274]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.52.22:061][274]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.52.22:064][274]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.52.22:064][274]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.52.22:071][274]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.52.22:071][274]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.52.22:071][274]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.52.22:071][274]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.52.22:072][274]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.52.22:072][274]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.52.22:072][274]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.52.22:073][274]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.52.22:073][274]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.52.22:073][274]LogInit: FAudioDevice initialized.
+[2022.03.21-08.52.22:073][274]LogAudio: Display: Audio Device (ID: 16) registered with world 'LVL_Proto'.
+[2022.03.21-08.52.22:118][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.52.22:118][274]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.52.22:120][274]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.52.22
+[2022.03.21-08.52.22:120][274]LogWorld: Bringing up level for play took: 0.001131
+[2022.03.21-08.52.22:120][274]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.03.21-08.52.22:122][274]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-08.52.22:122][274]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.52.22:122][274]LogBlueprintUserMessages: [BP_Recepteur_2] true
+[2022.03.21-08.52.22:122][274]LogBlueprintUserMessages: [BP_Recepteur_2] true
+[2022.03.21-08.52.22:122][274]LogBlueprintUserMessages: [BP_Recepteur_2] true
+[2022.03.21-08.52.22:123][274]PIE: Server logged in
+[2022.03.21-08.52.22:123][274]PIE: Play in editor total start time 0,145 seconds.
+[2022.03.21-08.52.24:018][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.52.24:018][493]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.52.24:018][493]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.52.24:033][493]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.52.24:034][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.52.24:046][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.52.24:052][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.52.24:073][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.52.24:074][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.52.24:078][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.03.21-08.52.24:102][494]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.03.21-08.52.32:570][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-08.52.32:570][459]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:52:32)
+[2022.03.21-08.52.32:571][459]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.52.32:572][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001421s)
+[2022.03.21-08.52.32:573][459]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.52.32:573][459]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2022.03.21-08.52.32:573][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002377s)
+[2022.03.21-08.52.32:595][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.03.21-08.52.32:596][459]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.03.21-08.52.32:596][459]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.52.32:596][459]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.52.32:596][459]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.52.32:596][459]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.52.32:596][459]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.52.32:596][459]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.52.32:596][459]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.52.32:596][459]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.52.32:597][459]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.52.32:597][459]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.52.32:597][459]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.52.32:597][459]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.52.32:599][459]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.52.32:599][459]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.52.32:606][459]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.52.32:607][459]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.52.32:607][459]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.52.32:607][459]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.52.32:607][459]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.52.32:607][459]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.52.32:607][459]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.52.32:608][459]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.52.32:608][459]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.52.32:608][459]LogInit: FAudioDevice initialized.
+[2022.03.21-08.52.32:608][459]LogAudio: Display: Audio Device (ID: 17) registered with world 'LVL_Proto'.
+[2022.03.21-08.52.32:617][459]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.52.32:619][459]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.52.32
+[2022.03.21-08.52.32:619][459]LogWorld: Bringing up level for play took: 0.000883
+[2022.03.21-08.52.32:619][459]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.03.21-08.52.32:621][459]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.52.32:621][459]LogBlueprintUserMessages: [BP_Recepteur_2] true
+[2022.03.21-08.52.32:621][459]LogBlueprintUserMessages: [BP_Recepteur_2] true
+[2022.03.21-08.52.32:621][459]LogBlueprintUserMessages: [BP_Recepteur_2] true
+[2022.03.21-08.52.32:621][459]PIE: Server logged in
+[2022.03.21-08.52.32:622][459]PIE: Play in editor total start time 0,052 seconds.
+[2022.03.21-08.52.35:727][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.52.35:727][819]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.52.35:727][819]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.52.35:728][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.52.35:747][819]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.52.35:756][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.52.35:778][819]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-08.52.35:778][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.52.35:779][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.52.35:781][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.52.35:783][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.03.21-08.52.35:807][820]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.03.21-08.52.39:067][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.03.21-08.52.40:727][191]LogSlate: Window 'Save Content' being destroyed
+[2022.03.21-08.52.40:733][191]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2022.03.21-08.52.40:733][191]PIE: Warning: PIE failed because map save was canceled
+[2022.03.21-08.52.41:892][320]LogSlate: Window 'Message Log' being destroyed
+[2022.03.21-08.52.41:895][320]LogSlate: Window 'Message Log' being destroyed
+[2022.03.21-08.52.43:168][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-08.52.43:168][464]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:52:43)
+[2022.03.21-08.52.43:193][464]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.52.43:194][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001626s)
+[2022.03.21-08.52.43:195][464]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.52.43:195][464]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2022.03.21-08.52.43:195][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002779s)
+[2022.03.21-08.52.43:218][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.03.21-08.52.43:219][464]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.03.21-08.52.43:219][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.52.43:219][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.52.43:219][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.52.43:219][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.52.43:219][464]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.52.43:219][464]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.52.43:219][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.52.43:219][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.52.43:220][464]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.52.43:220][464]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.52.43:220][464]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.52.43:220][464]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.52.43:222][464]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.52.43:222][464]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.52.43:229][464]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.52.43:229][464]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.52.43:230][464]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.52.43:230][464]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.52.43:230][464]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.52.43:230][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.52.43:230][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.52.43:231][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.52.43:231][464]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.52.43:231][464]LogInit: FAudioDevice initialized.
+[2022.03.21-08.52.43:231][464]LogAudio: Display: Audio Device (ID: 18) registered with world 'LVL_Proto'.
+[2022.03.21-08.52.43:288][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.52.43:288][464]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.52.43:289][464]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.52.43
+[2022.03.21-08.52.43:290][464]LogWorld: Bringing up level for play took: 0.001108
+[2022.03.21-08.52.43:290][464]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.03.21-08.52.43:291][464]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.52.43:291][464]LogBlueprintUserMessages: [BP_Recepteur_2] true
+[2022.03.21-08.52.43:291][464]LogBlueprintUserMessages: [BP_Recepteur_2] true
+[2022.03.21-08.52.43:291][464]LogBlueprintUserMessages: [BP_Recepteur_2] true
+[2022.03.21-08.52.43:293][464]PIE: Server logged in
+[2022.03.21-08.52.43:294][464]PIE: Play in editor total start time 0,127 seconds.
+[2022.03.21-08.53.07:991][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.53.07:991][ 46]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.53.07:991][ 46]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.53.07:994][ 46]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.53.07:994][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.53.08:003][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.53.08:010][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.53.08:031][ 46]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-08.53.08:032][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.53.08:033][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.53.08:036][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.03.21-08.53.08:069][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.03.21-08.53.25:005][  3]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.53.25:009][  3]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.21-08.53.25:011][  3]LogPlayLevel: [PlayLevel] Compiling BP_Recepteur before play...
+[2022.03.21-08.53.25:066][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.03.21-08.53.25:067][  3]LogPlayLevel: PlayLevel: Blueprint regeneration took 58 ms (1 blueprints)
+[2022.03.21-08.53.25:067][  3]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:53:25)
+[2022.03.21-08.53.25:067][  3]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.53.25:068][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001321s)
+[2022.03.21-08.53.25:069][  3]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.53.25:069][  3]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2022.03.21-08.53.25:069][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002301s)
+[2022.03.21-08.53.25:092][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.03.21-08.53.25:092][  3]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.03.21-08.53.25:092][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.53.25:092][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.53.25:092][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.53.25:092][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.53.25:092][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.53.25:092][  3]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.53.25:092][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.53.25:092][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.53.25:093][  3]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.53.25:093][  3]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.53.25:093][  3]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.53.25:093][  3]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.53.25:096][  3]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.53.25:096][  3]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.53.25:103][  3]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.53.25:103][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.53.25:103][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.53.25:103][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.53.25:103][  3]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.53.25:103][  3]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.53.25:103][  3]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.53.25:104][  3]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.53.25:104][  3]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.53.25:104][  3]LogInit: FAudioDevice initialized.
+[2022.03.21-08.53.25:104][  3]LogAudio: Display: Audio Device (ID: 19) registered with world 'LVL_Proto'.
+[2022.03.21-08.53.25:167][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.53.25:167][  3]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.53.25:172][  3]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.53.25
+[2022.03.21-08.53.25:173][  3]LogWorld: Bringing up level for play took: 0.004292
+[2022.03.21-08.53.25:173][  3]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.03.21-08.53.25:177][  3]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-08.53.25:177][  3]LogBlueprintUserMessages: [BP_Recepteur_2] true
+[2022.03.21-08.53.25:177][  3]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.53.25:177][  3]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.53.25:178][  3]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.53.25:179][  3]PIE: Server logged in
+[2022.03.21-08.53.25:180][  3]PIE: Play in editor total start time 0,172 seconds.
+[2022.03.21-08.53.40:639][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.53.40:639][784]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.53.40:640][784]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.53.40:644][784]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.53.40:645][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.53.40:658][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.53.40:666][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.53.40:687][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.53.40:688][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.53.40:693][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.03.21-08.53.40:711][785]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.03.21-08.54.11:722][460]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.54.11:726][460]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.21-08.54.11:728][460]LogPlayLevel: [PlayLevel] Compiling BP_Recepteur before play...
+[2022.03.21-08.54.11:784][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.03.21-08.54.11:785][460]LogPlayLevel: PlayLevel: Blueprint regeneration took 58 ms (1 blueprints)
+[2022.03.21-08.54.11:785][460]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:54:11)
+[2022.03.21-08.54.11:785][460]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.54.11:787][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001369s)
+[2022.03.21-08.54.11:787][460]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.54.11:787][460]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2022.03.21-08.54.11:787][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002271s)
+[2022.03.21-08.54.11:810][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.03.21-08.54.11:810][460]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.03.21-08.54.11:810][460]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.54.11:810][460]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.54.11:810][460]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.54.11:810][460]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.54.11:810][460]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.54.11:810][460]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.54.11:810][460]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.54.11:810][460]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.54.11:810][460]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.54.11:810][460]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.54.11:810][460]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.54.11:810][460]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.54.11:813][460]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.54.11:813][460]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.54.11:820][460]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.54.11:821][460]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.54.11:821][460]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.54.11:821][460]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.54.11:821][460]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.54.11:821][460]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.54.11:821][460]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.54.11:822][460]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.54.11:822][460]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.54.11:822][460]LogInit: FAudioDevice initialized.
+[2022.03.21-08.54.11:822][460]LogAudio: Display: Audio Device (ID: 20) registered with world 'LVL_Proto'.
+[2022.03.21-08.54.11:876][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.54.11:877][460]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.54.11:882][460]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.54.11
+[2022.03.21-08.54.11:882][460]LogWorld: Bringing up level for play took: 0.002986
+[2022.03.21-08.54.11:883][460]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.03.21-08.54.11:886][460]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-08.54.11:887][460]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'ArrayBool' of length 1 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.54.11:887][460]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.54.11:887][460]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'ArrayBool' of length 2 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.54.11:887][460]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.54.11:887][460]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'ArrayBool' of length 3 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.54.11:887][460]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.54.11:888][460]PIE: Server logged in
+[2022.03.21-08.54.11:889][460]PIE: Play in editor total start time 0,163 seconds.
+[2022.03.21-08.54.13:623][663]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.54.13:628][663]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.54.13:653][663]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.54.13:653][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.54.13:668][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.54.13:677][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.54.13:698][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.54.13:699][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.54.13:703][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.03.21-08.54.13:726][664]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.03.21-08.54.19:679][361]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.54.19:683][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-08.54.19:683][361]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:54:19)
+[2022.03.21-08.54.19:683][361]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.54.19:685][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001529s)
+[2022.03.21-08.54.19:686][361]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.54.19:686][361]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2022.03.21-08.54.19:686][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002556s)
+[2022.03.21-08.54.19:708][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.03.21-08.54.19:709][361]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.03.21-08.54.19:709][361]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.54.19:709][361]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.54.19:709][361]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.54.19:709][361]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.54.19:709][361]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.54.19:709][361]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.54.19:709][361]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.54.19:709][361]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.54.19:710][361]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.54.19:710][361]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.54.19:710][361]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.54.19:710][361]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.54.19:712][361]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.54.19:712][361]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.54.19:719][361]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.54.19:719][361]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.54.19:720][361]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.54.19:720][361]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.54.19:720][361]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.54.19:720][361]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.54.19:720][361]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.54.19:721][361]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.54.19:721][361]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.54.19:721][361]LogInit: FAudioDevice initialized.
+[2022.03.21-08.54.19:721][361]LogAudio: Display: Audio Device (ID: 21) registered with world 'LVL_Proto'.
+[2022.03.21-08.54.19:775][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.54.19:775][361]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.54.19:776][361]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.54.19
+[2022.03.21-08.54.19:777][361]LogWorld: Bringing up level for play took: 0.001082
+[2022.03.21-08.54.19:777][361]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.03.21-08.54.19:778][361]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-08.54.19:778][361]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'ArrayBool' of length 1 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.54.19:778][361]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.54.19:779][361]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'ArrayBool' of length 2 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.54.19:779][361]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.54.19:779][361]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'ArrayBool' of length 3 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.54.19:779][361]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.54.19:780][361]PIE: Server logged in
+[2022.03.21-08.54.19:780][361]PIE: Play in editor total start time 0,097 seconds.
+[2022.03.21-08.54.22:529][688]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.54.22:536][688]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.54.22:571][688]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.54.22:572][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.54.22:584][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.54.22:592][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.54.22:613][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.54.22:614][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.54.22:618][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.03.21-08.54.22:642][689]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.03.21-08.55.08:351][ 46]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Blueprint/BP_Player.BP_Player
+[2022.03.21-08.55.34:332][988]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2022.03.21-08.55.34:345][988]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.21-08.55.44:455][174]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.21-08.56.25:292][  2]BlueprintLog: New page: Compile BP_Recepteur
+[2022.03.21-08.56.25:346][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.03.21-08.56.34:215][ 33]LogEditorViewport: Clicking on Actor (LMB): BP_Activator_C (BP_Activator)
+[2022.03.21-08.56.52:949][170]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.56.52:953][170]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.21-08.56.52:955][170]LogPlayLevel: [PlayLevel] Compiling BP_Recepteur before play...
+[2022.03.21-08.56.53:008][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.03.21-08.56.53:009][170]LogPlayLevel: PlayLevel: Blueprint regeneration took 55 ms (1 blueprints)
+[2022.03.21-08.56.53:009][170]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:56:53)
+[2022.03.21-08.56.53:009][170]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.56.53:011][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001431s)
+[2022.03.21-08.56.53:011][170]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.56.53:011][170]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2022.03.21-08.56.53:011][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002355s)
+[2022.03.21-08.56.53:037][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.03.21-08.56.53:037][170]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.03.21-08.56.53:037][170]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.56.53:037][170]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.56.53:037][170]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.56.53:037][170]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.56.53:037][170]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.56.53:037][170]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.56.53:037][170]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.56.53:037][170]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.56.53:038][170]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.56.53:038][170]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.56.53:038][170]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.56.53:038][170]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.56.53:040][170]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.56.53:040][170]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.56.53:048][170]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.56.53:048][170]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.56.53:048][170]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.56.53:048][170]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.56.53:048][170]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.56.53:048][170]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.56.53:048][170]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.56.53:049][170]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.56.53:049][170]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.56.53:049][170]LogInit: FAudioDevice initialized.
+[2022.03.21-08.56.53:049][170]LogAudio: Display: Audio Device (ID: 22) registered with world 'LVL_Proto'.
+[2022.03.21-08.56.53:094][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.56.53:094][170]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.56.53:095][170]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.56.53
+[2022.03.21-08.56.53:096][170]LogWorld: Bringing up level for play took: 0.001020
+[2022.03.21-08.56.53:096][170]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.03.21-08.56.53:097][170]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-08.56.53:097][170]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'ArrayBool' of length 1 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.56.53:097][170]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.56.53:097][170]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'ArrayBool' of length 2 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.56.53:097][170]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.56.53:097][170]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'ArrayBool' of length 3 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.56.53:097][170]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.56.53:098][170]PIE: Server logged in
+[2022.03.21-08.56.53:099][170]PIE: Play in editor total start time 0,145 seconds.
+[2022.03.21-08.56.55:927][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.56.55:927][502]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.56.55:928][502]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.56.55:941][502]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.56.55:941][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.56.55:959][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.56.55:967][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.56.55:990][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.56.55:991][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.56.55:995][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.03.21-08.56.56:019][503]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.03.21-08.57.07:286][759]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Content/EngineMaterials: 'C:/Unreal/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.57.07:286][759]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Content/MapTemplates/Materials: 'C:/Unreal/UE_4.27/Engine/Content/MapTemplates/Materials' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.57.07:286][759]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'C:/Unreal/UE_4.27/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.57.07:286][759]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset: 'C:/Unreal/UE_4.27/Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-08.57.09:872][ 28]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.57.09:877][ 28]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.21-08.57.09:882][ 28]LogPlayLevel: [PlayLevel] Compiling BP_Activator before play...
+[2022.03.21-08.57.09:958][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.03.21-08.57.09:959][ 28]LogPlayLevel: PlayLevel: Blueprint regeneration took 81 ms (1 blueprints)
+[2022.03.21-08.57.09:959][ 28]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:57:09)
+[2022.03.21-08.57.09:959][ 28]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.57.09:961][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001343s)
+[2022.03.21-08.57.09:961][ 28]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.57.09:961][ 28]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2022.03.21-08.57.09:961][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002327s)
+[2022.03.21-08.57.09:991][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.03.21-08.57.09:991][ 28]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.03.21-08.57.09:991][ 28]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.57.09:991][ 28]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.57.09:991][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.57.09:991][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.57.09:991][ 28]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.57.09:991][ 28]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.57.09:991][ 28]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.57.09:991][ 28]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.57.09:992][ 28]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.57.09:992][ 28]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.57.09:992][ 28]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.57.09:992][ 28]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.57.09:994][ 28]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.57.09:994][ 28]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.57.10:001][ 28]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.57.10:001][ 28]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.57.10:001][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.57.10:001][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.57.10:002][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.57.10:002][ 28]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.57.10:002][ 28]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.57.10:002][ 28]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.57.10:002][ 28]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.57.10:002][ 28]LogInit: FAudioDevice initialized.
+[2022.03.21-08.57.10:002][ 28]LogAudio: Display: Audio Device (ID: 23) registered with world 'LVL_Proto'.
+[2022.03.21-08.57.10:059][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.57.10:060][ 28]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.57.10:061][ 28]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.57.10
+[2022.03.21-08.57.10:061][ 28]LogWorld: Bringing up level for play took: 0.000960
+[2022.03.21-08.57.10:061][ 28]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.03.21-08.57.10:062][ 28]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-08.57.10:063][ 28]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'ArrayBool' of length 1 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.57.10:063][ 28]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.57.10:063][ 28]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'ArrayBool' of length 2 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.57.10:063][ 28]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.57.10:063][ 28]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'ArrayBool' of length 3 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.57.10:063][ 28]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.57.10:064][ 28]PIE: Server logged in
+[2022.03.21-08.57.10:064][ 28]PIE: Play in editor total start time 0,188 seconds.
+[2022.03.21-08.57.23:099][583]LogBlueprintUserMessages: [BP_Recepteur_2] 0
+[2022.03.21-08.57.25:302][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.57.25:302][844]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.57.25:303][844]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.57.25:318][844]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.57.25:318][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.57.25:329][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.57.25:338][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.57.25:366][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.57.25:367][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.57.25:372][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.03.21-08.57.25:410][845]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.03.21-08.57.30:343][408]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.57.30:346][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-08.57.30:346][408]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:57:30)
+[2022.03.21-08.57.30:346][408]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.57.30:348][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001341s)
+[2022.03.21-08.57.30:349][408]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.57.30:349][408]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2022.03.21-08.57.30:349][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002402s)
+[2022.03.21-08.57.30:378][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.03.21-08.57.30:380][408]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.03.21-08.57.30:380][408]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.57.30:380][408]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.57.30:380][408]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.57.30:380][408]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.57.30:380][408]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.57.30:380][408]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.57.30:380][408]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.57.30:380][408]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.57.30:380][408]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.57.30:381][408]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.57.30:381][408]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.57.30:381][408]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.57.30:383][408]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.57.30:383][408]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.57.30:390][408]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.57.30:390][408]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.57.30:390][408]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.57.30:390][408]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.57.30:391][408]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.57.30:391][408]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.57.30:391][408]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.57.30:391][408]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.57.30:391][408]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.57.30:392][408]LogInit: FAudioDevice initialized.
+[2022.03.21-08.57.30:392][408]LogAudio: Display: Audio Device (ID: 24) registered with world 'LVL_Proto'.
+[2022.03.21-08.57.30:454][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.57.30:455][408]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.57.30:461][408]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.57.30
+[2022.03.21-08.57.30:461][408]LogWorld: Bringing up level for play took: 0.003683
+[2022.03.21-08.57.30:461][408]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2022.03.21-08.57.30:465][408]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'ArrayBool' of length 1 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.57.30:465][408]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.57.30:465][408]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'ArrayBool' of length 2 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.57.30:465][408]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.57.30:465][408]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'ArrayBool' of length 3 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.57.30:465][408]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.57.30:468][408]PIE: Server logged in
+[2022.03.21-08.57.30:470][408]PIE: Play in editor total start time 0,124 seconds.
+[2022.03.21-08.57.47:649][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.57.47:649][373]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.57.47:649][373]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.57.47:652][373]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.57.47:652][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.57.47:663][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.57.47:672][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.57.47:699][373]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-08.57.47:699][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.57.47:700][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.57.47:705][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.03.21-08.57.47:719][374]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.03.21-08.58.19:435][965]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.58.19:441][965]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.21-08.58.19:442][965]LogPlayLevel: [PlayLevel] Compiling BP_Recepteur before play...
+[2022.03.21-08.58.19:502][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.03.21-08.58.19:503][965]LogPlayLevel: PlayLevel: Blueprint regeneration took 61 ms (1 blueprints)
+[2022.03.21-08.58.19:503][965]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:58:19)
+[2022.03.21-08.58.19:504][965]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.58.19:506][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001402s)
+[2022.03.21-08.58.19:506][965]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.58.19:506][965]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2022.03.21-08.58.19:506][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002331s)
+[2022.03.21-08.58.19:535][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.03.21-08.58.19:536][965]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.03.21-08.58.19:536][965]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.58.19:536][965]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.58.19:536][965]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.58.19:536][965]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.58.19:536][965]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.58.19:536][965]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.58.19:536][965]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.58.19:536][965]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.58.19:536][965]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.58.19:537][965]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.58.19:537][965]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.58.19:537][965]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.58.19:539][965]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.58.19:539][965]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.58.19:547][965]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.58.19:547][965]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.58.19:547][965]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.58.19:547][965]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.58.19:547][965]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.58.19:547][965]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.58.19:547][965]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.58.19:548][965]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.58.19:548][965]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.58.19:548][965]LogInit: FAudioDevice initialized.
+[2022.03.21-08.58.19:548][965]LogAudio: Display: Audio Device (ID: 25) registered with world 'LVL_Proto'.
+[2022.03.21-08.58.19:613][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.58.19:614][965]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.58.19:621][965]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.58.19
+[2022.03.21-08.58.19:621][965]LogWorld: Bringing up level for play took: 0.004980
+[2022.03.21-08.58.19:621][965]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2022.03.21-08.58.19:624][965]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-08.58.19:625][965]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'ArrayBool' of length 1 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.58.19:625][965]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.58.19:625][965]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'ArrayBool' of length 2 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.58.19:625][965]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.58.19:626][965]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'ArrayBool' of length 3 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.58.19:626][965]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.58.19:627][965]PIE: Server logged in
+[2022.03.21-08.58.19:627][965]PIE: Play in editor total start time 0,188 seconds.
+[2022.03.21-08.58.27:578][914]LogBlueprintUserMessages: [BP_Recepteur_2] 1
+[2022.03.21-08.58.28:955][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.58.28:955][ 76]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.58.28:957][ 76]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-08.58.28:964][ 76]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-08.58.28:965][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.58.28:977][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-08.58.28:985][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-08.58.29:013][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.58.29:014][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-08.58.29:018][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.03.21-08.58.29:045][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.03.21-08.58.43:457][691]BlueprintLog: New page: Compile BP_Recepteur
+[2022.03.21-08.58.43:507][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.03.21-08.59.27:718][834]BlueprintLog: New page: Compile BP_Recepteur
+[2022.03.21-08.59.27:775][834]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.03.21-08.59.41:942][425]BlueprintLog: New page: Compile BP_Recepteur
+[2022.03.21-08.59.41:999][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.03.21-08.59.43:962][631]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-08.59.43:966][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-08.59.43:966][631]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 10:59:43)
+[2022.03.21-08.59.43:966][631]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-08.59.43:968][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001393s)
+[2022.03.21-08.59.43:968][631]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-08.59.43:968][631]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2022.03.21-08.59.43:968][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002292s)
+[2022.03.21-08.59.44:000][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.03.21-08.59.44:000][631]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.03.21-08.59.44:000][631]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-08.59.44:000][631]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-08.59.44:000][631]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-08.59.44:000][631]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-08.59.44:000][631]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-08.59.44:000][631]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-08.59.44:000][631]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-08.59.44:000][631]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-08.59.44:001][631]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-08.59.44:001][631]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-08.59.44:001][631]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-08.59.44:001][631]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-08.59.44:004][631]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-08.59.44:004][631]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-08.59.44:011][631]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-08.59.44:011][631]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-08.59.44:011][631]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-08.59.44:011][631]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-08.59.44:012][631]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-08.59.44:012][631]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-08.59.44:012][631]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-08.59.44:012][631]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-08.59.44:012][631]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-08.59.44:012][631]LogInit: FAudioDevice initialized.
+[2022.03.21-08.59.44:012][631]LogAudio: Display: Audio Device (ID: 26) registered with world 'LVL_Proto'.
+[2022.03.21-08.59.44:076][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-08.59.44:077][631]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-08.59.44:082][631]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-09.59.44
+[2022.03.21-08.59.44:083][631]LogWorld: Bringing up level for play took: 0.003832
+[2022.03.21-08.59.44:083][631]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2022.03.21-08.59.44:088][631]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'ArrayBool' of length 1 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.59.44:088][631]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.59.44:088][631]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'ArrayBool' of length 2 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.59.44:088][631]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.59.44:088][631]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'ArrayBool' of length 3 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-08.59.44:088][631]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-08.59.44:091][631]PIE: Server logged in
+[2022.03.21-08.59.44:094][631]PIE: Play in editor total start time 0,128 seconds.
+[2022.03.21-08.59.52:328][614]LogBlueprintUserMessages: [BP_Recepteur_2] 1
+[2022.03.21-08.59.52:328][614]LogBlueprintUserMessages: [BP_Recepteur_2] Hello
+[2022.03.21-08.59.54:869][919]LogBlueprintUserMessages: [BP_Recepteur_2] 1
+[2022.03.21-08.59.54:870][919]LogBlueprintUserMessages: [BP_Recepteur_2] merde
+[2022.03.21-08.59.58:145][312]LogBlueprintUserMessages: [BP_Recepteur_2] 1
+[2022.03.21-08.59.58:145][312]LogBlueprintUserMessages: [BP_Recepteur_2] Hello
+[2022.03.21-09.00.00:403][583]LogBlueprintUserMessages: [BP_Recepteur_2] 1
+[2022.03.21-09.00.00:403][583]LogBlueprintUserMessages: [BP_Recepteur_2] merde
+[2022.03.21-09.00.01:761][746]LogBlueprintUserMessages: [BP_Recepteur_2] 1
+[2022.03.21-09.00.01:761][746]LogBlueprintUserMessages: [BP_Recepteur_2] Hello
+[2022.03.21-09.00.02:853][877]LogBlueprintUserMessages: [BP_Recepteur_2] 1
+[2022.03.21-09.00.02:853][877]LogBlueprintUserMessages: [BP_Recepteur_2] merde
+[2022.03.21-09.00.03:505][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-09.00.03:505][951]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-09.00.03:506][951]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-09.00.03:512][951]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-09.00.03:512][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-09.00.03:525][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-09.00.03:534][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-09.00.03:561][951]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-09.00.03:561][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-09.00.03:562][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-09.00.03:567][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.03.21-09.00.03:595][952]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.03.21-09.00.15:655][321]BlueprintLog: New page: Compile BP_Recepteur
+[2022.03.21-09.00.15:713][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.03.21-09.00.34:803][515]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Unreal/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.00.34:803][515]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Unreal/UE_4.27/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.00.34:803][515]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Content/EditorLandscapeResources: 'C:/Unreal/UE_4.27/Engine/Content/EditorLandscapeResources' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.00.34:803][515]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Content/BufferVisualization: 'C:/Unreal/UE_4.27/Engine/Content/BufferVisualization' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.00.37:643][852]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset: 'C:/Unreal/UE_4.27/Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.00.41:022][251]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Unreal/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.00.41:022][251]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Unreal/UE_4.27/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.00.41:022][251]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Content/EditorLandscapeResources: 'C:/Unreal/UE_4.27/Engine/Content/EditorLandscapeResources' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.00.41:022][251]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Content/BufferVisualization: 'C:/Unreal/UE_4.27/Engine/Content/BufferVisualization' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.01.04:616][975]BlueprintLog: New page: Compile BP_Activator
+[2022.03.21-09.01.04:672][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.03.21-09.01.14:209][ 77]BlueprintLog: New page: Compile BP_Activator
+[2022.03.21-09.01.14:259][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.03.21-09.01.15:446][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Blueprint/BP_Activator" FILE="D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Blueprint/BP_Activator.uasset" SILENT=true
+[2022.03.21-09.01.15:456][199]LogSavePackage: Moving 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Saved/BP_Activator5AD4A85E43B75ED8222433AAA475E983.tmp' to 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Blueprint/BP_Activator.uasset'
+[2022.03.21-09.01.15:465][199]AssetCheck: New page: Asset Save: BP_Activator
+[2022.03.21-09.01.15:465][199]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprint/BP_Activator.BP_Activator
+[2022.03.21-09.01.25:142][308]BlueprintLog: New page: Compile BP_Activator
+[2022.03.21-09.01.25:192][308]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.03.21-09.01.59:234][295]BlueprintLog: New page: Compile BP_Recepteur
+[2022.03.21-09.01.59:293][295]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.03.21-09.01.59:669][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Blueprint/BP_Recepteur" FILE="D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Blueprint/BP_Recepteur.uasset" SILENT=true
+[2022.03.21-09.01.59:685][325]LogSavePackage: Moving 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Saved/BP_RecepteurD4487B7642A62E4D3AE43CA24A2EE2E9.tmp' to 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Blueprint/BP_Recepteur.uasset'
+[2022.03.21-09.01.59:696][325]AssetCheck: New page: Asset Save: BP_Recepteur
+[2022.03.21-09.01.59:696][325]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprint/BP_Recepteur.BP_Recepteur
+[2022.03.21-09.02.00:210][383]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-09.02.00:215][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-09.02.00:215][383]PIE: New page: PIE session: LVL_Proto (21 mars 2022 à 11:02:00)
+[2022.03.21-09.02.00:215][383]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-09.02.00:216][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001525s)
+[2022.03.21-09.02.00:217][383]LogAIModule: Creating AISystem for world LVL_Proto
+[2022.03.21-09.02.00:217][383]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2022.03.21-09.02.00:217][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/LVL_Proto.LVL_Proto to /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto (0.002498s)
+[2022.03.21-09.02.00:248][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.03.21-09.02.00:249][383]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.03.21-09.02.00:249][383]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-09.02.00:249][383]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-09.02.00:249][383]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-09.02.00:249][383]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-09.02.00:249][383]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-09.02.00:249][383]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-09.02.00:249][383]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-09.02.00:249][383]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-09.02.00:249][383]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-09.02.00:249][383]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-09.02.00:249][383]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-09.02.00:249][383]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-09.02.00:252][383]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-09.02.00:252][383]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-09.02.00:260][383]LogAudioMixer: Display: Using Audio Device DELL S2340L (NVIDIA High Definition Audio)
+[2022.03.21-09.02.00:260][383]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-09.02.00:260][383]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-09.02.00:260][383]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-09.02.00:260][383]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-09.02.00:260][383]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-09.02.00:260][383]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-09.02.00:261][383]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-09.02.00:261][383]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-09.02.00:261][383]LogInit: FAudioDevice initialized.
+[2022.03.21-09.02.00:261][383]LogAudio: Display: Audio Device (ID: 27) registered with world 'LVL_Proto'.
+[2022.03.21-09.02.00:302][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-09.02.00:302][383]LogLoad: Game class is 'GameModeBase'
+[2022.03.21-09.02.00:303][383]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_LVL_Proto.LVL_Proto up for play (max tick rate 0) at 2022.03.21-10.02.00
+[2022.03.21-09.02.00:304][383]LogWorld: Bringing up level for play took: 0.001099
+[2022.03.21-09.02.00:304][383]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2022.03.21-09.02.00:305][383]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-09.02.00:305][383]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'ArrayBool' of length 1 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-09.02.00:305][383]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-09.02.00:305][383]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'ArrayBool' of length 2 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-09.02.00:305][383]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-09.02.00:305][383]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'ArrayBool' of length 3 in '/Game/Game/Blueprint/BP_Recepteur.BP_Recepteur_C'!
+[2022.03.21-09.02.00:305][383]LogBlueprintUserMessages: [BP_Recepteur_2] false
+[2022.03.21-09.02.00:307][383]PIE: Server logged in
+[2022.03.21-09.02.00:308][383]PIE: Play in editor total start time 0,094 seconds.
+[2022.03.21-09.02.30:783][ 33]LogBlueprintUserMessages: [BP_Recepteur_2] 1
+[2022.03.21-09.02.37:977][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-09.02.37:977][893]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_LVL_Proto
+[2022.03.21-09.02.37:978][893]LogSlate: Window 'UE4_No_Siris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-09.02.37:986][893]LogWorld: UWorld::CleanupWorld for LVL_Proto, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-09.02.37:987][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-09.02.38:001][893]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-09.02.38:010][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-09.02.38:039][893]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-09.02.38:039][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-09.02.38:040][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-09.02.38:044][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.03.21-09.02.38:072][894]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.03.21-09.03.09:029][440]LogEditorViewport: Clicking on Actor (LMB): BP_Activator_C (BP_Activator)
+[2022.03.21-09.03.11:765][765]Cmd: EDIT COPY
+[2022.03.21-09.03.11:955][787]Cmd: EDIT PASTE
+[2022.03.21-09.03.21:940][974]Cmd: EDIT COPY
+[2022.03.21-09.03.22:139][998]Cmd: EDIT PASTE
+[2022.03.21-09.03.26:250][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Level/LVL_Proto" FILE="D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Level/LVL_Proto.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.21-09.03.26:281][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.03.21-09.03.26:288][465]LogSavePackage: Moving 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Saved/LVL_ProtoC2E312D9490509847C3028A033420C21.tmp' to 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Level/LVL_Proto.umap'
+[2022.03.21-09.03.26:309][465]AssetCheck: New page: Asset Save: LVL_Proto
+[2022.03.21-09.03.26:309][465]LogContentValidation: Display: Validating World /Game/Game/Level/LVL_Proto.LVL_Proto
+[2022.03.21-09.03.50:350][220]BlueprintLog: New page: Compile BP_Recepteur
+[2022.03.21-09.03.50:403][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.03.21-09.05.30:264][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Level/LVL_Proto" FILE="D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Level/LVL_Proto.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.21-09.05.30:296][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.03.21-09.05.30:305][159]LogSavePackage: Moving 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Saved/LVL_ProtoE701E44F4C8214785FF51CA2D90865C4.tmp' to 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Level/LVL_Proto.umap'
+[2022.03.21-09.05.30:312][159]LogFileHelpers: Saving map 'LVL_Proto' took 0.048
+[2022.03.21-09.05.30:321][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Blueprint/BP_Activator" FILE="D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Blueprint/BP_Activator.uasset" SILENT=true
+[2022.03.21-09.05.30:331][159]LogSavePackage: Moving 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Saved/BP_ActivatorBA51B3074494AAD757BB46A38756D320.tmp' to 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Blueprint/BP_Activator.uasset'
+[2022.03.21-09.05.30:331][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Blueprint/BP_Recepteur" FILE="D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Blueprint/BP_Recepteur.uasset" SILENT=true
+[2022.03.21-09.05.30:346][159]LogSavePackage: Moving 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Saved/BP_Recepteur08ABDD7143357D9484A3CEBABA9FE129.tmp' to 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Blueprint/BP_Recepteur.uasset'
+[2022.03.21-09.05.30:356][159]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.21-09.05.30:356][159]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprint/BP_Activator.BP_Activator
+[2022.03.21-09.05.30:356][159]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprint/BP_Recepteur.BP_Recepteur
+[2022.03.21-09.05.30:356][159]LogContentValidation: Display: Validating World /Game/Game/Level/LVL_Proto.LVL_Proto
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Content: 'C:/Unreal/UE_4.27/Engine/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:610][373]SourceControl: fatal: C:/Unreal/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Unreal/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris'
+[2022.03.21-09.05.32:851][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Blueprint/BP_Activator" FILE="D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Blueprint/BP_Activator.uasset" SILENT=true
+[2022.03.21-09.05.32:858][373]LogSavePackage: Moving 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Saved/BP_Activator1D0F356B42BD2CD16CFD39B886CB7BBC.tmp' to 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Blueprint/BP_Activator.uasset'
+[2022.03.21-09.05.32:859][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Blueprint/BP_Recepteur" FILE="D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Blueprint/BP_Recepteur.uasset" SILENT=true
+[2022.03.21-09.05.32:874][373]LogSavePackage: Moving 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Saved/BP_Recepteur466EF4AD40BC689EBD54AF9A9213808B.tmp' to 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Blueprint/BP_Recepteur.uasset'
+[2022.03.21-09.05.32:874][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Level/LVL_Proto" FILE="D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Level/LVL_Proto.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.21-09.05.32:904][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.03.21-09.05.32:909][373]LogSavePackage: Moving 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Saved/LVL_ProtoC684CF1F4B53812BF0EE9D812DE12BC9.tmp' to 'D:/GAME2-INT/NOIREL Dorian/Unreal Project/UE4_No_Siris/Content/Game/Level/LVL_Proto.umap'
+[2022.03.21-09.05.32:915][373]LogFileHelpers: Saving map 'LVL_Proto' took 0.041
+[2022.03.21-09.05.43:723][373]LogSlate: Window 'Submit Files' being destroyed
+[2022.03.21-09.05.44:338][373]LogSourceControl: commit successful: [main 02b614e] Blueprint Activator
+[2022.03.21-09.05.44:404][373]SourceControl: [main 02b614e] Blueprint Activator
+[2022.03.21-09.05.44:404][373]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2022.03.21-09.05.44:404][373]SourceControl:  rewrite Content/Game/Blueprint/BP_Activator.uasset (83%)
+[2022.03.21-09.05.44:404][373]SourceControl:  rewrite Content/Game/Blueprint/BP_Recepteur.uasset (92%)
+[2022.03.21-09.05.44:409][373]SourceControl: Commited [main 02b614e] Blueprint Activator.
+[2022.03.21-09.05.44:429][374]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.21-09.05.44:429][374]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprint/BP_Activator.BP_Activator
+[2022.03.21-09.05.44:430][374]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprint/BP_Recepteur.BP_Recepteur
+[2022.03.21-09.05.44:430][374]LogContentValidation: Display: Validating World /Game/Game/Level/LVL_Proto.LVL_Proto
